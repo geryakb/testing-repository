@@ -1,4 +1,5 @@
 package com.example.test
 
-class Main {
+fun main() {
+    println("Hello Word")
 }
